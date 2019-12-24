@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <FrameLayout android:layout_height="match_parent" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:id="@+id/content_tv"
+            android:layout_width="12dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="#3aa333"
+            android:text="张三李四"/>
+</FrameLayout>
